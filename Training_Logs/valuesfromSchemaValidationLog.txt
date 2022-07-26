@@ -1,0 +1,42 @@
+2020-02-17/17:35:32		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/17:39:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/17:42:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/18:47:28		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/18:58:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/19:00:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-17/22:47:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-02-17/22:48:21		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-02-17/23:01:04		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-02-18/02:40:55		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-02-18/02:41:02		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-04-16/14:34:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-10-23/14:00:41		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-10-23/14:02:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-10-23/14:04:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2020-10-23/14:07:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-10-23/22:27:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-10-24/09:59:13		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2020-10-24/10:05:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 52
+
+2022-07-26/17:12:03		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
+2022-07-26/17:12:47		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 51
+
